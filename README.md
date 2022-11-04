@@ -6,6 +6,10 @@
 
 ![Screen Shot 2022-11-04 at 1 17 51 PM](https://user-images.githubusercontent.com/91632194/200036847-75e3078e-5231-4c32-9881-4dde46b1ea08.png)
 
+![Screen Shot 2022-11-04 at 1 25 07 PM](https://user-images.githubusercontent.com/91632194/200038089-99343831-1897-406d-82a2-be183ca968b6.png)
+
+![Screen Shot 2022-11-04 at 1 25 13 PM](https://user-images.githubusercontent.com/91632194/200038112-825f2d57-6262-43f5-9bce-4e06d0956773.png)
+
 ## Description
 My solution for REST Countries API. 
 
