@@ -16,4 +16,4 @@ My solution for REST Countries API.
 - JS
 
 ## Acknowledgements
-[Rest Countries API](https://restcountries.com/)
+[Rest Countries API](https://restcountries.com/) 
